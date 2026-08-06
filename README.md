@@ -25,3 +25,6 @@ User Management Module
 Purpose
 
 The purpose of this system is to simplify record management by providing an organized, secure, and efficient platform for handling data through a web-based application.
+
+
+THE WHOLE FILES ARE IN ZIP FOLDER
